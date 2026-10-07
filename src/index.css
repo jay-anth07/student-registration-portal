@@ -1,6 +1,0 @@
-body { font-family: sans-serif; background: #f4f6fb; margin: 0; }
-nav { display: flex; gap: 16px; padding: 14px 24px; background: #1e293b; }
-nav a { color: #fff; text-decoration: none; }
-.card { display: flex; flex-direction: column; gap: 12px; max-width: 400px; margin: 40px auto; padding: 24px; background: #fff; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,.1); }
-input { padding: 10px; border: 1px solid #ccc; border-radius: 6px; }
-.btn { padding: 10px; background: #2563eb; color: #fff; border: 0; border-radius: 6px; text-align: center; text-decoration: none; cursor: pointer; }
